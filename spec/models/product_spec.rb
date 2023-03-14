@@ -5,8 +5,8 @@ RSpec.describe Product, type: :model do
   describe 'Validations' do
 
     before do
-      @category = Category.new(id: 1, name: "Technology")
-      @product = Product.new(id: 1, name: "Turbo Hoverboard", price_cents: 30000, quantity: 10, category: @category)
+      @category = Category.new(id: 1, name: "Houseplant")
+      @product = Product.new(id: 1, name: "Dragon Plant", price_cents: 30000, quantity: 10, category: @category)
     end
 
     it "should have valid attribute" do
