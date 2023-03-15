@@ -4,6 +4,13 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 My role in this project consisted in inheritting the codebase and fixing some bugs, and adding and testing some features.
 
+## Final Result:
+
+!["Admin Product Page"](https://github.com/YoussefBenAmmar/Jungle-rails/blob/master/docs/jungle-amdin-products.png?raw=true)
+!["User Product Page"](https://github.com/YoussefBenAmmar/Jungle-rails/blob/master/docs/jungle-products.png?raw=true)
+!["Cart"](https://github.com/YoussefBenAmmar/Jungle-rails/blob/master/docs/Jungle-my-cart.png?raw=true)
+
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
