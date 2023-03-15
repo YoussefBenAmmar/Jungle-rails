@@ -6,8 +6,7 @@ describe('Add to cart', () => {
 
   it('should increase cart count by one when user adds product to cart', () => {
 
-    // cy.get('.btn').first().click().select({force: true});
-
+    //click on the add button
     cy.get('.products article').first().within(() => {
      cy.get('.btn').click({force: true})
     })
